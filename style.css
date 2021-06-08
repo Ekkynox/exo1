@@ -1,0 +1,34 @@
+.carre {
+    background-color: orange;
+    width:10em;
+    height:10em;
+    display:inline-block;
+}
+
+#carre2 {
+    position: relative;
+    top: 2em;
+}
+
+#carre4 {
+    position:relative;
+    left:-15px;
+}
+
+.container {
+    position:relative;
+    width:50em;
+    height:50em;
+    background-color: brown;
+}
+
+#carreabs {
+    position:absolute;
+    top:15em;
+    left:15em;
+}
+
+#carreabs2 {
+    position:absolute;
+    left:25em;
+}
